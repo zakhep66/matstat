@@ -1,0 +1,5 @@
+.idea
+venv
+__pycache__/*
+input_date.csv
+finish_input_date.csv
